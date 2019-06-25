@@ -1,5 +1,4 @@
-# infant_mortality_app
-
+David Amadi Wits University , School of Public Health 2017/2018 daakiv27@gmail.com
 Automated data driven infant mortality application using KHDSS data
 
 Main app-shiny_app_v7.1 which is Rmarkdown code embedded by shiny codes
