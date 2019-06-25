@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Installing all required r packages
 Link all dependency apps i.e SpatialAppKhdss and InforgraphicApp to the main app(InfantMortalityApp)
-Edit the directory that inputs data for InforgraphicApp i.e shape file and immunology data
+Edit the directory that inputs data for InforgraphicApp i.e shape file and vaccine data
 
 
 
