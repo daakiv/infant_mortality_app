@@ -1,6 +1,9 @@
+
 # An Integrated Knowledge Ecosystem for Infant Mortality in Kilifi Health and Demographic Surveillance System
 
-David Amadi Wits University,School of Public Health 2017/2018 daakiv27@gmail.com Automated data driven infant mortality application using KHDSS data
+David Amadi Wits University,School of Public Health 2017/2018 daakiv27@gmail.com 
+Automated data driven infant mortality application using KHDSS data
+
 
 ## Getting Started
 
@@ -16,7 +19,7 @@ Edit the directory that inputs data for InforgraphicApp i.e shape file and immun
 
 ### Installing
 
-After linking all the dependency apps because of modularisation run the main knit the main application 
+After linking all the dependency apps due to modularisation, knit the main application 
 
 
 ## Deployment
@@ -31,11 +34,11 @@ deploy to rstudio server for the application to be used by others
 
 ## Versioning
 
-We use Git and for versioning. For the versions available 
+We use Git and for versioning. 
 
 ## Authors
 
-* **David Amadi** - *Initial work* - [PurpleBooth](https://github.com/daakiv)
+* **David Amadi** - *Initial work* - [daakiv](https://github.com/daakiv)
 
 
 
