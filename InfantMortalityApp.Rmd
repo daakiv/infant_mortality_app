@@ -856,7 +856,7 @@ Spatial Distribution
 
   shinyAppDir(
  
-  "/Users/damadi/Documents/WITS/Project/ResearchReport/app/other/SpatialAppKhdss" )
+  "/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/SpatialAppKhdss" )
 
 ```
 
