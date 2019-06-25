@@ -23,8 +23,8 @@ After linking all the dependency apps due to modularisation, knit the main appli
 
 
 ## Deployment
-
-deploy to rstudio server for the application to be used by others
+Host the platform on Shiny cloud server or deploy to private rstudio server
+The deployment of the application will allow working from any internet enabled location after its configuration.
 
 ## Built With
 
