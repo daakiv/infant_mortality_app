@@ -32,9 +32,10 @@ The deployment of the application will allow working from any internet enabled l
 * [rmarkdown](https://rmarkdown.rstudio.com/) - Dependency Management
 
 
+
 ## Versioning
 
-We use Git and for versioning. 
+We use Git and github and for versioning. 
 
 ## Authors
 
