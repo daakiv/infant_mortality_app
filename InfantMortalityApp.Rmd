@@ -95,9 +95,9 @@ sliderInput("no_records", "Select the number of records to view:",
             value = 500)
 
 ## for inteli section
-data1 <- read.csv("/Users/damadi/Desktop/samp_data/infantdatafinal15.csv")
-data2=readShapePoly("/Users/damadi/Desktop/samp_data/shapefile/DSS_sublocations.shp")
-infants <- read.csv("/Users/damadi/Desktop/samp_data/infantdatafinal15.csv")
+data1 <- read.csv("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/data/infantdatafinal15.csv")
+data2=readShapePoly("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/shapefile/DSS_sublocations.shp")
+infants <- read.csv("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/data/infantdatafinal15.csv")
 infants <-as.data.frame(infants)
 coverage <-table(infants$immun)
 coverage <-as.data.frame(coverage)
