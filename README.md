@@ -19,12 +19,13 @@ Edit the directory for data inputs i.e shape file and vaccine data
 
 ### Installing
 
-After linking all the dependency apps due to modularisation, knit the main application 
+After linking all the dependency apps due to modularisation, run the main application 
 
 
 ## Deployment
 Host the platform on Shiny cloud server or deploy to private rstudio server
 The deployment of the application will allow working from any internet enabled location after its configuration.
+Upload data for analysis with graphical display by point and click
 
 ## Built With
 
