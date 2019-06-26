@@ -94,7 +94,7 @@ sliderInput("no_records", "Select the number of records to view:",
             min = 0, max = 1000,
             value = 500)
 
-## for inteli section
+## #change directory for upload of data for dispay
 data1 <- read.csv("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/data/infantdatafinal15.csv")
 data2=readShapePoly("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/shapefile/DSS_sublocations.shp")
 infants <- read.csv("/Users/damadi/Documents/GitHub/infant_mortality/infant_mortality_app/data/infantdatafinal15.csv")
