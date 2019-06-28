@@ -47,6 +47,6 @@ We use Git and github and for versioning.
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Many thanks to Ken and Alice
+* Many thanks to Ken Mwai and Alice Kamau
 
 
