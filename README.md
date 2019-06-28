@@ -36,7 +36,7 @@ Upload data for analysis with graphical display by point and click
 
 ## Versioning
 
-We use Git and github and for versioning. 
+We used Git and github and for versioning. 
 
 ## Authors
 
