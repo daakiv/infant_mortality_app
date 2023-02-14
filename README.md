@@ -23,7 +23,7 @@ After linking all the dependency apps due to modularisation, run the main applic
 
 
 ## Deployment
-Host the platform on [Shiny],(https://damadi.shinyapps.io/KHDSS_mortality_application/?_ga=2.156473715.975775465.1676363820-1651139327.1676363820) cloud server or deploy to private rstudio server
+Host the platform on [Shiny] (https://damadi.shinyapps.io/KHDSS_mortality_application/?_ga=2.156473715.975775465.1676363820-1651139327.1676363820) cloud server or deploy to private rstudio server
 The deployment of the application will allow working from any internet enabled location after its configuration.
 Upload data for analysis with graphical display by point and click
 
